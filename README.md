@@ -1,6 +1,6 @@
 **Simple Transformer implementation from scratch in PyTorch**
 
-Goal of this implementation is to show the simplicity of transformer models and self-attention. This transformer model consists of stack of simple transformer blocks. It doesn't have encoder-decoder structure as historical transforer implementation.
+Goal of this implementation is to show the simplicity of transformer models and self-attention. This transformer model consists of stack of simple transformer blocks. It doesn't have encoder-decoder structure as historical transformer implementation.
 
 `SelfAttention` is simple implementation of multi head attentnion module.
 
